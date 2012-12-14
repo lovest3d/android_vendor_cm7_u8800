@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8800/proprietary/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/u8800/proprietary/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/huawei/u8800/proprietary/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
+    vendor/huawei/u8800/proprietary/gralloc.default.so:system/lib/hw/gralloc.u8800.so \
     vendor/huawei/u8800/proprietary/libgsl.so:system/lib//libgsl.so \
     vendor/huawei/u8800/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/huawei/u8800/proprietary/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
